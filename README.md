@@ -1,4 +1,4 @@
-# Attention-EEG
+# Attention-EEG-1
 
 Set of models for attention estimation from EEG: transformer EEG, RNN and resnet based CNN.
 
